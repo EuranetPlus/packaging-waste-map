@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko svatko od nas proizvede ambalažnog otpada?",
+  "subtitle": "Stanovnik EU-a proizveo je u prosjeku 186,6 kg ambalažnog otpada u 2022. godini, što je pad od -1,7% u odnosu na 2021. godinu.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "kg po glavi stanovnika",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
