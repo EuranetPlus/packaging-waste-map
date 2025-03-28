@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket förpackningsavfall producerar var och en av oss?",
+  "subtitle": "En EU-medborgare genererade i genomsnitt 186,6 kg förpackningsavfall 2022, en minskning med -1,7 % jämfört med 2021.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "kg per capita",
   "tooltipExtraInfoLabel": "Klicka här"
 }
