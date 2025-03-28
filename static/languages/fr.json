@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quelle quantité de déchets d’emballage produisons-nous chacun d’entre nous ?",
+  "subtitle": "Un citoyen de l’UE a généré en moyenne 186,6 kg de déchets d’emballages en 2022, soit une baisse de -1,7% par rapport à 2021.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "kg par habitant",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
