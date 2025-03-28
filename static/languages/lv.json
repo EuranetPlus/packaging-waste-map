@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudz iepakojuma atkritumu katrs no mums saražo?",
+  "subtitle": "ES pilsonis 2022. gadā vidēji radīja 186,6 kg iepakojuma atkritumu, kas ir par -1,7% mazāk nekā 2021. gadā.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
   "legend1": "Nav pieejami dati",
+  "customUnitLabel": "kg uz vienu iedzīvotāju",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
