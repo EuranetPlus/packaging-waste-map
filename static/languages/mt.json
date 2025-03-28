@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm tipproduċi skart mill-imballaġġ kull wieħed minna?",
+  "subtitle": "Ċittadin tal-UE ġġenera medja ta' 186.6 kg ta' skart tal-imballaġġ fl-2022, tnaqqis ta' -1.7% meta mqabbel mal-2021.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
-  "legend1": "L-ebda dejta disponibbli",
+  "legend1": "Ebda data disponibbli",
+  "customUnitLabel": "kg per capita",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
