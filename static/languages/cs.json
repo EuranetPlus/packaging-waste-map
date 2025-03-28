@@ -1,13 +1,11 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik obalového odpadu každý z nás vyprodukuje?",
+  "subtitle": "Občan EU vyprodukoval v roce 2022 v průměru 186,6 kg obalového odpadu, což je oproti roku 2021 pokles o -1,7 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
   "legend1": "Nejsou k dispozici žádné údaje",
+  "customUnitLabel": "kg na obyvatele",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
