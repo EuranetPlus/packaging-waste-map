@@ -1,13 +1,11 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek pakuočių atliekų susidaro kiekvienas iš mūsų?",
+  "subtitle": "Vidutiniškai ES pilietis 2022 metais susidarė 186,6 kg pakuočių atliekų, tai yra -1,7% mažiau nei 2021 metais.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostatas",
   "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
   "legend1": "Nėra duomenų",
+  "customUnitLabel": "kg vienam gyventojui",
   "tooltipExtraInfoLabel": "Spauskite čia"
 }
