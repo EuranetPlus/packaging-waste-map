@@ -1,13 +1,11 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui palju pakendijäätmeid igaüks meist toodab?",
+  "subtitle": "EL-i kodanik tekitas 2022. aastal keskmiselt 186,6 kg pakendijäätmeid, mis on -1,7% vähem kui 2021. aastal.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
   "legend1": "Andmed puuduvad",
+  "customUnitLabel": "kg elaniku kohta",
   "tooltipExtraInfoLabel": "Klõpsake siin"
 }
